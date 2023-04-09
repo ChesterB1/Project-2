@@ -372,7 +372,7 @@ table {
 
 .main-section {
   position: relative;
-  height: 800px;
+  min-height: 800px;
   background: #F0F0F0;
   padding-top: 16px;
   overflow: hidden;
@@ -395,7 +395,7 @@ table {
 .main-section__first-elipse {
   position: absolute;
   top: 129px;
-  right: 34px;
+  right: 80px;
 }
 .main-section__second-elipse {
   position: absolute;
